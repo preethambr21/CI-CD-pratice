@@ -4,7 +4,7 @@ public class Hello {
         logStartup();
     }
    public static void logStartup() {
-        System.out.println("Application started successfully...!!!");
+        System.out.println("Application started successfully...#!!!");
     }
 }
 
